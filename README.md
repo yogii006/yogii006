@@ -26,7 +26,7 @@ I am a final-year **B.Tech (CSE)** student at the **Indian Institute of Informat
 
 ## 💼 Experience
 
-### 🔹 ShorthillsAI (Feb 2025 – Present)  
+### 🔹 ShorthillsAI (Feb 2025 – Aug 2025)  
 **Role:** AI/ML Engineer | **Location:** Gurgaon  
 - Built **Medical Q&A chatbot (Medibot)** using web scraping, RAG, and Llama3.2-7B.
 - Integrated **automated test case generation** using LLMs and golden dataset validation.
