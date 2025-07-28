@@ -83,7 +83,7 @@ I am a final-year **B.Tech (CSE)** student at the **Indian Institute of Informat
 
 This repository contains the latest version of my resume in PDF format:
 
-- `YogeshYadav_IIITUna_CS_Resume_V3.pdf`
+- `YogeshYadav_IIITUna_CS_Resume.pdf`
 
 ---
 
