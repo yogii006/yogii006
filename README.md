@@ -52,15 +52,15 @@ I am a final-year **B.Tech (CSE)** student at the **Indian Institute of Informat
 - Implemented **multi-node agent workflows** for contextual, state-aware conversations.  
 - Designed with OpenAI Assistants, LangChain, and structured memory graphs for persistence.
 
-### 🔸 [Talk to PDFs Chatbot](https://github.com/yogii006/Question-answer) (Dec 2023)  
+### 🔸 [Talk to PDFs Chatbot] (Dec 2023)  
 - Built **RAG-based chatbot** using LangChain, FAISS & OpenAI.  
 - Achieved ~75% factual correctness on document-based Q&A.
 
-### 🔸 [Face Recognition Attendance System](https://github.com/yogii006/Attendance) (Oct 2023)  
+### 🔸 [Face Recognition Attendance System] (Oct 2023)  
 - Real-time **facial recognition** attendance app.  
 - Achieved 98% accuracy over 525+ facial samples.
 
-### 🔸 [Movie Recommendation Engine](https://github.com/yogii006/movie) (Aug 2023)  
+### 🔸 [Movie Recommendation Engine] (Aug 2023)  
 - Built NLP-based engine using **BoW & Cosine Similarity**.  
 - Achieved **83% Precision@k** on TMDB 5000 dataset.
 
