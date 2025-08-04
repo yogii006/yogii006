@@ -47,7 +47,7 @@ I am a final-year **B.Tech (CSE)** student at the **Indian Institute of Informat
 
 ## 🚀 Projects
 
-### 🔸 [LangGraph-based Workflow Automation](https://github.com/yogii006/langgraph-rag) (Jul 2025)  
+### 🔸 [LangGraph-based Workflow Automation](https://langgraph-1.onrender.com) (Jul 2025)  
 - Built a **LangGraph-based LLM agent framework** integrating RAG, tool usage, and memory.  
 - Implemented **multi-node agent workflows** for contextual, state-aware conversations.  
 - Designed with OpenAI Assistants, LangChain, and structured memory graphs for persistence.
