@@ -4,6 +4,21 @@ Welcome to the official repository for **Yogesh Yadav's Resume** – a concise o
 
 ---
 
+<p align="center">
+  <a href="">
+    <img src="devmate.png" width="30%" />
+  </a>
+  
+  <a href="https://www.youtube.com/watch?v=JH9HsGrQJAs&t=1s">
+    <img src="Youtube_automate.png" width="30%" />
+  </a>
+  
+  <a href="https://www.youtube.com/watch?v=6m_uLKglF9k&t=3s">
+    <img src="mailcruit.png" width="30%" />
+  </a>
+</p>
+
+
 ## 👤 About Me
 
 I am a final-year **B.Tech (CSE)** student at the **Indian Institute of Information Technology, Una**, passionate about solving real-world problems using AI/ML, NLP, and scalable backend systems. I actively work on end-to-end projects involving LLMs, RAG pipelines, and system architectures.
