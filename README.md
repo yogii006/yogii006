@@ -14,7 +14,7 @@ Welcome to the official repository for **Yogesh Yadav's Resume** – a concise o
   </a>
   
   <a href="https://www.youtube.com/watch?v=6m_uLKglF9k&t=3s">
-    <img src="mailcruit.png" width="30%" />
+    <img src="mailcruit.png" width="31%" />
   </a>
 </p>
 
