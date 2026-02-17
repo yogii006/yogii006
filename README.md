@@ -1,27 +1,43 @@
 # 📄 Yogesh Yadav – Resume
 
-Welcome to the official repository for **Yogesh Yadav's Resume** – a concise overview of my academic background, professional experience, and technical projects in the fields of Artificial Intelligence, Machine Learning, and Software Development.
+Welcome to the official repository for **Yogesh Yadav** – a concise overview of my Personal projects, academic background, professional experience, and technical projects in the fields of Artificial Intelligence, Machine Learning, and Software Development.
 
 ---
-<p> Below are my project demo videos are attached. Click the image to view the video. For more context you can scroll down to view project details.</p>
-<p align="center">
-  <a href="">
-    <img src="devmate.png" width="30%" />
+### 🎬 Project Demo Videos  
+Click on any image to watch the demo.
+
+<table align="center">
+<tr>
+
+<td align="center">
+  <a href="https://your-devmate-video-link.com">
+    <div style="width:300px; height:200px; display:flex; align-items:center; justify-content:center; background:#f5f5f5;">
+      <img src="devmate.png" style="max-width:100%; max-height:100%; object-fit:contain;" />
+    </div>
   </a>
-  
+  <br><b>Devmate</b>
+</td>
+
+<td align="center">
   <a href="https://www.youtube.com/watch?v=JH9HsGrQJAs&t=1s">
-    <img src="Youtube_automate.png" width="30%" />
+    <div style="width:300px; height:200px; display:flex; align-items:center; justify-content:center; background:#f5f5f5;">
+      <img src="Youtube_automate.png" style="max-width:100%; max-height:100%; object-fit:contain;" />
+    </div>
   </a>
-  
+  <br><b>YouTube Automation</b>
+</td>
+
+<td align="center">
   <a href="https://www.youtube.com/watch?v=6m_uLKglF9k&t=3s">
-    <img src="mailcruit.png" width="31%" />
+    <div style="width:300px; height:200px; display:flex; align-items:center; justify-content:center; background:#f5f5f5;">
+      <img src="mailcruit.png" style="max-width:100%; max-height:100%; object-fit:contain;" />
+    </div>
   </a>
-</p>
-<p align="center">
-  <strong>Devmate</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Youtube_ automate</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Mailcruit</strong>
-</p>
+  <br><b>Mailcruit</b>
+</td>
+
+</tr>
+</table>
 
 ## 👤 About Me
 
@@ -37,7 +53,7 @@ I am a final-year **B.Tech (CSE)** student at the **Indian Institute of Informat
 
 | Degree             | Institute                                 | Score     | Year      |
 |--------------------|-------------------------------------------|-----------|-----------|
-| B.Tech (CSE)       | IIIT Una                                  | 7.72 CGPA | 2021–2025 |
+| B.Tech (CSE)       | IIIT Una                                  | 7.71 CGPA | 2021–2025 |
 | Senior Secondary   | CBSE                                      | 89.8%     | 2020      |
 | Secondary          | CBSE                                      | 88.8%     | 2018      |
 
@@ -66,22 +82,42 @@ I am a final-year **B.Tech (CSE)** student at the **Indian Institute of Informat
 
 ## 🚀 Projects
 
-### 🔸 [LangGraph-based Workflow Automation](https://langgraph-1.onrender.com) (Jul 2025)  
-- Built a **LangGraph-based LLM agent framework** integrating RAG, tool usage, and memory.  
-- Implemented **multi-node agent workflows** for contextual, state-aware conversations.  
+### 🔸 [Devmate (LangGraph-based Workflow Automation)](https://langgraph-1.onrender.com) (Jul 2025)
+- Built a **LangGraph-based LLM agent framework** integrating RAG, tool usage, and memory.
+- Implemented **multi-node agent workflows** for contextual, state-aware conversations.
 - Designed with OpenAI Assistants, LangChain, and structured memory graphs for persistence.
 
-### 🔸 [Talk to PDFs Chatbot] (Dec 2023)  
-- Built **RAG-based chatbot** using LangChain, FAISS & OpenAI.  
+---
+
+### 🔸 Mailcruit – AI-Powered Resume Matching & Tailoring (2025)
+- Developed an **AI-driven recruitment pipeline** that matches candidates to job descriptions using semantic search and Boolean filtering.
+- Implemented **LLM-based resume tailoring** to automatically customize resumes based on selected job roles.
+- Integrated MongoDB, Azure OpenAI, and custom query parsing for structured resume retrieval and scoring.
+
+---
+
+### 🔸 AI-Powered YouTube Upload Automation Pipeline (2025)
+- Built an **end-to-end automated YouTube publishing system** using webhook-based workflows.
+- Used ChatGPT to generate SEO-optimized titles, descriptions, tags, and category mappings.
+- Automated uploads via YouTube Data API and logged outputs to Google Sheets; deployed backend on Railway.
+
+---
+
+### 🔸 Talk to PDFs Chatbot (Dec 2023)
+- Built a **RAG-based chatbot** using LangChain, FAISS & OpenAI.
 - Achieved ~75% factual correctness on document-based Q&A.
 
-### 🔸 [Face Recognition Attendance System] (Oct 2023)  
-- Real-time **facial recognition** attendance app.  
+---
+
+### 🔸 Face Recognition Attendance System (Oct 2023)
+- Developed real-time **facial recognition attendance system** using computer vision.
 - Achieved 98% accuracy over 525+ facial samples.
 
-### 🔸 [Movie Recommendation Engine] (Aug 2023)  
-- Built NLP-based engine using **BoW & Cosine Similarity**.  
-- Achieved **83% Precision@k** on TMDB 5000 dataset.
+---
+
+### 🔸 Movie Recommendation Engine (Aug 2023)
+- Built an NLP-based recommendation engine using **BoW & Cosine Similarity**.
+- Achieved **83% Precision@k** on the TMDB 5000 dataset.
 
 ---
 
