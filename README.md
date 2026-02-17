@@ -3,7 +3,7 @@
 Welcome to the official repository for **Yogesh Yadav's Resume** – a concise overview of my academic background, professional experience, and technical projects in the fields of Artificial Intelligence, Machine Learning, and Software Development.
 
 ---
-
+<p> Below are my project demo videos are attached. Click the image to view the video. For more context you can scroll down to view project details.</p>
 <p align="center">
   <a href="">
     <img src="devmate.png" width="30%" />
@@ -17,7 +17,11 @@ Welcome to the official repository for **Yogesh Yadav's Resume** – a concise o
     <img src="mailcruit.png" width="31%" />
   </a>
 </p>
-
+<p align="center">
+  <strong>Devmate</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Youtube_ automate</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Mailcruit</strong>
+</p>
 
 ## 👤 About Me
 
