@@ -10,7 +10,7 @@ Click on any image to watch the demo.
 <tr>
 
 <td align="center">
-  <a href="https://your-devmate-video-link.com">
+  <a href="https://youtu.be/-XHQFR3IEG8">
     <div style="width:300px; height:200px; display:flex; align-items:center; justify-content:center; background:#f5f5f5;">
       <img src="devmate.png" style="max-width:100%; max-height:100%; object-fit:contain;" />
     </div>
