@@ -1,4 +1,4 @@
-# 📄 Yogesh Yadav – Resume
+# 📄 Yogesh Yadav
 
 Welcome to the official repository for **Yogesh Yadav** – a concise overview of my Personal projects, academic background, professional experience, and technical projects in the fields of Artificial Intelligence, Machine Learning, and Software Development.
 
